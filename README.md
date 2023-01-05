@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nour Ibrahim</h1>
 <h3 align="center">I love the constant development of technology. My ambition and goal in the field of information technology and design is to make technology useful and easy to use, so that the whole society can use technology smoothly. I am a front-end and back-end developer. I can give as much as I can a clean code and modern design. I also make websites and apps more and more interactive and useful. Some areas that Im good at: Java | C#.NET | HTML & CSS | Android Studio.</h3>
 
