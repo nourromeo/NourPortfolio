@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nour Ibrahim</h1>
 <h3 align="center">I love the constant development of technology. My ambition and goal in the field of information technology and design is to make technology useful and easy to use, so that the whole society can use technology smoothly. I am a front-end and back-end developer. I can give as much as I can a clean code and modern design. I also make websites and apps more and more interactive and useful. Some areas that Im good at: Java | C#.NET | HTML & CSS | Android Studio.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourromeo&label=Profile%20views&color=0e75b6&style=flat" alt="nourromeo" /> </p>
 
